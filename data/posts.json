@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "category": "React",
+    "description": "Learn the basics of React components and props."
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript",
+    "category": "JavaScript",
+    "description": "Learn important JavaScript concepts for frontend development."
+  },
+  {
+    "id": 3,
+    "title": "HTML Basics",
+    "category": "HTML",
+    "description": "Learn how HTML is used to structure web pages."
+  },
+  {
+    "id": 4,
+    "title": "CSS Flexbox Guide",
+    "category": "CSS",
+    "description": "Learn how to create flexible layouts using CSS Flexbox."
+  },
+  {
+    "id": 5,
+    "title": "React State and Props",
+    "category": "React",
+    "description": "Understand state and props in React applications."
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Array Methods",
+    "category": "JavaScript",
+    "description": "Explore useful JavaScript methods for working with arrays."
+  }
+]
